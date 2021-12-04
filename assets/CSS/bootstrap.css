@@ -8,5 +8,6 @@ section.big-box{
 }
 article.box {
   background-color: blue;
-  height:400px;
+  height: 100%;
+  width: 100%;
 }
