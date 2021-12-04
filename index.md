@@ -5,7 +5,7 @@ title: index home page
 food: pizza
 ---
 
-## Welcome to ggheeere
+## Learn Guitar Home page
 
 <div class="bacon" markdown="1">
   
