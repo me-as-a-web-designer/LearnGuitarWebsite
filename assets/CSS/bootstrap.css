@@ -5,4 +5,9 @@ body{background-color: orange;}
   height:30vh;
   width:70%;
   border-radius: 20px;
+  overflow:auto;
+}
+article.box {
+  background-color: blue;
+  height:400px;
 }
