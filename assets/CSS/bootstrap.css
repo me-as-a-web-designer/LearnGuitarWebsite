@@ -11,3 +11,8 @@ article.box {
   height: 100%;
   width: 100%;
 }
+article header {
+  color:pink;
+  font-size: 24px;
+  width: 100%;
+}
