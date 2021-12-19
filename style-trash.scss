@@ -2,4 +2,9 @@
 ---
 
 @import 'My-Bootstrap/CSS/mixins/mixins-1';
-body{background:lihgtblue;}
+body{
+  background:lihgtblue;
+}
+div{
+     @include background-opacity(green, 0.0);
+}
