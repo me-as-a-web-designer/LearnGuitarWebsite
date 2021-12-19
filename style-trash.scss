@@ -8,5 +8,6 @@ body{
   background:lihgtblue;
 }
 div{
-     @include background-opacity(green, 0.7);
+   border:10px solid blue;
+   @include background-opacity(green, 0.7);
 }
